@@ -1,0 +1,6 @@
+include augme/assets/audio/*
+include augme/assets/fonts/*
+include augme/assets/masks/*
+include augme/assets/text/*
+include augme/assets/tests/*
+include augme/assets/twemojis/*/*
